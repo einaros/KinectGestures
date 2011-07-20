@@ -72,7 +72,7 @@
     </Compile>
     <Compile Include="Body.cs" />
     <Compile Include="HorizontalPunchLikeGesture.cs" />
-    <Compile Include="IGesture.xaml.cs" />
+    <Compile Include="IGesture.cs" />
     <Compile Include="JointOverHeadGesture.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
