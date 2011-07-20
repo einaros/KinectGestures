@@ -1,0 +1,11 @@
+TestResults
+_ReSharper*
+*.ReSharper
+*.suo
+*.user
+bin
+obj
+packages
+temp
+*_mm_cache*
+*.mp3
